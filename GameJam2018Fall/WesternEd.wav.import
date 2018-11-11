@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/WesternEd.wav-0f823d814133605f5a93c2bccd313f90.sample"
+
+[deps]
+
+source_file="res://WesternEd.wav"
+dest_files=[ "res://.import/WesternEd.wav-0f823d814133605f5a93c2bccd313f90.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
